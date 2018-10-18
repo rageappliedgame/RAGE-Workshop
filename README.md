@@ -18,7 +18,10 @@ The workshop entails a hands-on technical session addressing how to enrich your 
 The workshop is primarily targeting developers from game studios as well as researchers, educators and students involved or interested in game development. Given the technical scope of the workshop, participants should have some basic knowledge of software development and/or game engines. 
 
 ## Preparations
-The workshop will consist of a short introductory presentation and a longer hands-on session involving some coding. For the presentation, you may want to check the [RAGE Portal](https://www.gamecomponents.eu), which is currently exposing up 40 ready-to-use game technology components. If you want to actively participate in the hands-on session then a laptop with Visual Studio is required. 
+The workshop will consist of a short introductory presentation and a longer hands-on session involving some coding. For the presentation, you may want to check the [RAGE Portal](https://www.gamecomponents.eu), which is currently exposing up 40 ready-to-use game technology components. If you want to actively participate in the hands-on session then a laptop with Visual Studio is required.
 
 ## Rationale
 The European Commission has designated (serious) gaming as a top priority for addressing a multitude of societal issues in, e.g., education, training, and health, and in the wider scope of the “digital transformation” of society. Today, however, the serious gaming landscape is still highly fragmented, exposing a lot or reinventing the wheel. Component-based approaches and the reuse of software will support developers at creating better games easier, faster, and more cost-effectively. 
+
+## Wiki
+A full program is available at the [project's wiki page](https://github.com/rageappliedgame/RAGE-Workshop/wiki).
