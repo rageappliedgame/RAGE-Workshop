@@ -21,7 +21,18 @@ The workshop is primarily targeting developers from game studios as well as rese
 The workshop will consist of a short introductory presentation and a longer hands-on session involving some coding. For the presentation, you may want to check the [RAGE Portal](https://www.gamecomponents.eu), which is currently exposing up 40 ready-to-use game technology components. If you want to actively participate in the hands-on session then a laptop with Visual Studio is required.
 
 ## Rationale
-The European Commission has designated (serious) gaming as a top priority for addressing a multitude of societal issues in, e.g., education, training, and health, and in the wider scope of the “digital transformation” of society. Today, however, the serious gaming landscape is still highly fragmented, exposing a lot or reinventing the wheel. Component-based approaches and the reuse of software will support developers at creating better games easier, faster, and more cost-effectively. 
+The European Commission has designated (serious) gaming as a top priority for addressing a multitude of societal issues in, e.g., education, training, and health, and in the wider scope of the “digital transformation” of society. Today, however, the serious gaming landscape is still highly fragmented, exposing a lot or reinventing the wheel. Component-based approaches and the reuse of software will support developers at creating better games easier, faster, and more cost-effectively.
+
+## Program
+10:45AM - 10:50AM Welcome
+
+10:50AM - 11:00AM Introduction to the RAGE client-side middleware architecture
+11:00AM - 11:10AM Introduction to the RAGE client-side component architecture
+
+11:10AM - 12:10PM Hands on session
+
+12:10PM - 12:20PM Introduction to the RAGE ecosystem
+12:20PM - 12:30PM Demonstration of the RAGE components and games. Closing remarks.
 
 ## Wiki
-A full program is available at the [project's wiki page](https://github.com/rageappliedgame/RAGE-Workshop/wiki).
+Detailes of the hands on session are available at the [project's wiki page](https://github.com/rageappliedgame/RAGE-Workshop/wiki).
