@@ -24,7 +24,7 @@ The workshop will consist of a short introductory presentation and a longer hand
 The European Commission has designated (serious) gaming as a top priority for addressing a multitude of societal issues in, e.g., education, training, and health, and in the wider scope of the “digital transformation” of society. Today, however, the serious gaming landscape is still highly fragmented, exposing a lot or reinventing the wheel. Component-based approaches and the reuse of software will support developers at creating better games easier, faster, and more cost-effectively.
 
 ## Program
-|                 |                                                                      |
+| Timestamp       | Content                                                              |
 |-----------------|----------------------------------------------------------------------|
 |10:45AM - 10:50AM| Welcome                                                              |
 |10:50AM - 11:00AM| Introduction to the RAGE client-side middleware architecture         |
