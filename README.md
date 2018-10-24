@@ -27,12 +27,9 @@ The European Commission has designated (serious) gaming as a top priority for ad
 |                 |                                                                      |
 |-----------------|----------------------------------------------------------------------|
 |10:45AM - 10:50AM| Welcome                                                              |
-|                 |                                                                      |
 |10:50AM - 11:00AM| Introduction to the RAGE client-side middleware architecture         |
 |11:00AM - 11:10AM| Introduction to the RAGE client-side component architecture          |
-|                 |                                                                      |
 |11:10AM - 12:10PM| Hands on session                                                     |
-|                 |                                                                      |
 |12:10PM - 12:20PM| Introduction to the RAGE ecosystem                                   |
 |12:20PM - 12:30PM| Demonstration of the RAGE components and games. Closing remarks.     |
 
