@@ -50,4 +50,4 @@ RAGE games:
 * [Watercooler](https://youtu.be/zD9toNgfQb4)
 
 RAGE components:
-* [RAGE youtube channel with component trailers](https://www.youtube.com/channel/UCKuUeqMoIh9555JHcVYyrlg/videos)
+* [RAGE youtube channel with components' trailers](https://www.youtube.com/channel/UCKuUeqMoIh9555JHcVYyrlg/videos)
