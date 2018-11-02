@@ -37,8 +37,9 @@ The European Commission has designated (serious) gaming as a top priority for ad
 Detailes of the hands on session are available at the [project's wiki page](https://github.com/rageappliedgame/RAGE-Workshop/wiki).
 
 ## Links
-RAGE ecosystem
+RAGE ecosystem:
 * [RAGE Ecosystem promo video](https://youtu.be/3hp7mDzeK9Q)  
+
 RAGE games:
 * [Sports TeamManager](https://youtu.be/nJatAY7XK8A)
 * [Hatch & ISPO](https://youtu.be/QDa8JcjcjkU)
