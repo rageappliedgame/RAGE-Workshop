@@ -38,7 +38,7 @@ Detailes of the hands on session are available at the [project's wiki page](http
 
 ## Links
 RAGE ecosystem
-* [RAGE Ecosystem promo video](https://youtu.be/3hp7mDzeK9Q)
+* [RAGE Ecosystem promo video](https://youtu.be/3hp7mDzeK9Q)  
 RAGE games:
 * [Sports TeamManager](https://youtu.be/nJatAY7XK8A)
 * [Hatch & ISPO](https://youtu.be/QDa8JcjcjkU)
