@@ -39,6 +39,8 @@ Detailes of the hands on session are available at the [project's wiki page](http
 ## Links
 [RAGE project homepage](http://rageproject.eu/)
 
+[RAGE project github project](https://github.com/rageappliedgame/)
+
 RAGE ecosystem:
 * [RAGE Ecosystem homepage](https://www.gamecomponents.eu/page/home)
 * [RAGE Ecosystem promo video](https://youtu.be/3hp7mDzeK9Q)  
